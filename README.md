@@ -8,7 +8,7 @@ MinimalChat elevates the standard chat experience with a suite of features desig
 
 -   **AI-Powered Conversations:** At the heart of MinimalChat lies an integrated AI assistant, powered by Google's advanced Gemini model. This isn't just a chatbot; it's a context-aware conversationalist that understands the flow of your discussions. It provides concise, relevant responses, answers factual questions, and offers assistance when you need it, making your chats more productive and engaging.
 -   **Seamless Real-Time Interaction:** Experience the immediacy of instant messaging with MinimalChat's real-time capabilities. Messages are delivered and displayed instantly, ensuring natural and fluid conversations.
--   **Secure and Private:** User authentication is a top priority. With robust registration and login features, MinimalChat ensures that your conversations remain private and secure.
+-   **Secure and Private:** With robust registration and login features, MinimalChat ensures that your conversations remain private and secure.
 -   **Intuitive and Responsive Design:** MinimalChat boasts a clean, modern interface that adapts gracefully to any device. Whether you're on a desktop, tablet, or smartphone, you'll enjoy a consistent and enjoyable user experience.
 -   **Visually Appealing Customization:** Subtle design touches, like the custom scrollbar, add a layer of polish and enhance the overall aesthetic of the application.
 
